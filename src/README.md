@@ -95,7 +95,7 @@ ULR:http://www.baidu.com
 _强调_
 **加粗**
 `printf()`
-<u>下划线</U>
+<u>下划线</u>
 :smile:
 :cry:
 H~2~O
